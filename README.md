@@ -1,5 +1,5 @@
 # public-production-documentation
-This repository contains all workflow documentation followed by METS staff. There are three major strands of workflow: Print Production, InDesign Production, and Digital Production.
+This repository contains all workflow documentation followed by METS staff. There are three major strands of workflow: Print Production, InDesign Production, and Digital Production. These documents are updated as needed.
 
 - All files starting with "Print-" are part of the Print Production workflow. We follow this workflow to create the print edition published by Medieval Institute Publications. Current versions: 10/31/2024
   
