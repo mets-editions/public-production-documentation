@@ -7,6 +7,6 @@ This repository contains all workflow documentation followed by METS staff. Ther
 
 - All files starting with "Digital-" are part of the Digital Production workflow. We follow this workflow to convert our print edition files into the TEI-XML files that form our digital editions. Current versions: 01/16/2026
 
-- METS File Naming Conventions: This document explains in detail the file naming conventions we use in house for both print and digital production. Current version: 10/31/2024
+- File Naming Conventions: This document explains in detail the file naming conventions we use in house for both print and digital production. Current version: 01/20/2026
 
-- METS File Naming Dictionary: This document defines specific terms referenced in the METS File Naming Conventions document. Current version: 10/31/2024
+- File Naming Dictionary: This document defines specific terms referenced in the METS File Naming Conventions document. Current version: 01/20/2026
